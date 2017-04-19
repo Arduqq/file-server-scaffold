@@ -1,0 +1,10 @@
+# This file allows a website to communicate with web crawlers:
+# http://www.robotstxt.org/
+
+# One can specify user agents for which the following rules apply. The asterisk
+# is a wildcard and stands for any user agent.
+User-agent: *
+
+# Directories and files can be disallowed. These paths will then be ignored by
+# the user agents specified above.
+Disallow:

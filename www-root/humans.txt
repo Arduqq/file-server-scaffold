@@ -1,0 +1,20 @@
+# This file allows a website to give credit to its developers:
+# http://humanstxt.org/
+# It is meant as a funny counterpart to the robots.txt file.
+
+/* TEAM */
+Name: Johannes Kiesel
+Mail: johannes.kiesel@uni-weimar.de
+
+Name: Martin Potthast
+Mail: martin.potthast@uni-weimar.de
+
+Name: Philipp Rudloff
+Mail: philipp.rudloff@uni-weimar.de
+
+
+/* THANKS */
+Name: Clement Welsch
+Name: Philipp Seltmann
+Name: Jan Grassegger
+
